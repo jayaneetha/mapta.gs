@@ -101,7 +101,7 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-    'hostname' => '127.0.0.1:3306',
+    'hostname' => 'localhost',
     'username' => 'prv_maptag',
     'password' => 'kh361010!',
 	'database' => 'prv_maptag',
